@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candies>
+    <candy>
+        <name>Chocolate Bar</name>
+        <type>Milk Chocolate</type>
+        <manufacturer>Candy Factory</manufacturer>
+        <weight>50</weight>
+        <price>3.50</price>
+    </candy>
+    <candy>
+        <name>Caramel</name>
+        <type>Fruit Caramel</type>
+        <manufacturer>Sweet Life</manufacturer>
+        <weight>30</weight>
+        <price>2.00</price>
+    </candy>
+    <candy>
+        <name>Hard Candy</name>
+        <type>Peppermint</type>
+        <manufacturer>Healthy Life</manufacturer>
+        <weight>10</weight>
+        <price>0.75</price>
+    </candy>
+</candies>
